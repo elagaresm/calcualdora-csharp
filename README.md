@@ -1,3 +1,3 @@
 # Example
 
-![Capture]("./img/screenshot.png")
+![Capture](./img/screenshot.png)
